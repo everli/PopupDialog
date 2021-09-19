@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "DynamicBlurView",
-        "repositoryURL": "https://github.com/KyoheiG3/DynamicBlurView.git",
+        "repositoryURL": "https://github.com/everli/DynamicBlurView",
         "state": {
-          "branch": null,
-          "revision": "fbf91352ff3defee8e1fc7525696404bc3740a86",
-          "version": "5.0.4"
+          "branch": "master",
+          "revision": "c08712b5d5f2e0475e5c25ed9be9dd18d89d9704",
+          "version": null
         }
       }
     ]
